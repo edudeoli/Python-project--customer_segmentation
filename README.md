@@ -13,15 +13,15 @@ Considerando os dados históricos de compras realizadas por nossos clientes, enf
 
 
 ### Passos do Projeto
-Coleta e Análise de Dados: Carregaremos os dados históricos de compras dos clientes e realizaremos uma análise inicial para entender sua estrutura e conteúdo.
+**Coleta e Análise de Dados**: Carregaremos os dados históricos de compras dos clientes e realizaremos uma análise inicial para entender sua estrutura e conteúdo.
 
-Pré-processamento de Dados: Prepararemos os dados para o processo de segmentação, o que pode envolver tratamento de valores ausentes, normalização de dados, etc.
+**Pré-processamento de Dados**: Prepararemos os dados para o processo de segmentação, o que pode envolver tratamento de valores ausentes, normalização de dados, etc.
 
-Aplicação de Algoritmos de Machine Learning: Utilizaremos algoritmos de agrupamento, como o K-Means, para segmentar os clientes em grupos com características semelhantes.
+**Aplicação de Algoritmos de Machine Learning**: Utilizaremos algoritmos de agrupamento, como o K-Means, para segmentar os clientes em grupos com características semelhantes.
 
-Integração com Power BI: Criaremos visualizações no Power BI que representam graficamente os resultados dos grupos de clientes.
+**Integração com Power BI**: Criaremos visualizações no Power BI que representam graficamente os resultados dos grupos de clientes.
 
-Análise e Insights: Interpretaremos os resultados da segmentação, identificando padrões e insights que possam guiar decisões estratégicas.
+**Análise e Insights**: Interpretaremos os resultados da segmentação, identificando padrões e insights que possam guiar decisões estratégicas.
 
 **Executando o Projeto**
   - Clone este repositório para o seu ambiente local.
