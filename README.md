@@ -37,5 +37,8 @@ Considerando os dados históricos de compras realizadas por nossos clientes, enf
 **Observações**
 Certifique-se de possuir todas as credenciais e permissões necessárias para acessar os dados dos clientes.
 O Power BI e o Jupyter Notebook são ferramentas poderosas para análise e visualização de dados, mas também exigem um aprendizado prévio para utilizá-las eficientemente.
-Autor: Seu Nome
-Contato: Seu E-mail
+
+
+Autor: Eduardo Ojr
+
+Contato: edu.deoli@gmail.com
