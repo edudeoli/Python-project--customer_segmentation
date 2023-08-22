@@ -5,11 +5,11 @@ Neste projeto, exploraremos a aplicação de Machine Learning utilizando a lingu
 Considerando os dados históricos de compras realizadas por nossos clientes, enfrentamos o desafio de segmentar esses clientes em grupos que possuam características semelhantes. Esse processo de agrupamento nos ajudará a entender melhor o comportamento de nossos clientes e direcionar estratégias de marketing e atendimento de forma mais eficaz.
 
 ### Ferramentas Utilizadas
-  - **Python**: Utilizaremos a linguagem Python para o processamento dos dados, aplicação de técnicas de Machine Learning e criação dos modelos de segmentação.
+**Python**: Utilizaremos a linguagem Python para o processamento dos dados, aplicação de técnicas de Machine Learning e criação dos modelos de segmentação.
     
-  - **Jupyter Notebook**: O Jupyter Notebook será o ambiente onde escreveremos e executaremos nosso código Python, facilitando a análise e visualização dos resultados.
+**Jupyter Notebook**: O Jupyter Notebook será o ambiente onde escreveremos e executaremos nosso código Python, facilitando a análise e visualização dos resultados.
     
-  - **Power BI**: Integraremos visualizações interativas criadas no Power BI ao nosso Jupyter Notebook para oferecer uma representação visual mais rica dos resultados.
+**Power BI**: Integraremos visualizações interativas criadas no Power BI ao nosso Jupyter Notebook para oferecer uma representação visual mais rica dos resultados.
 
 
 ### Passos do Projeto
